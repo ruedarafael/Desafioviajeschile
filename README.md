@@ -9,3 +9,5 @@ Fontawesome: Uso de 3 iconos en la sección quienessomos.
 container-fluid, utilizado para diferentes secciones.
 d-flex gap-2, utilizado para separar los iconos de footer.
 -col -row: utilizado para grilla de contenido.
+
+-2commits en 1 rama y 3 en  commits en la otra.
